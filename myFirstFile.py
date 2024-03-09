@@ -1,3 +1,3 @@
 "conda activate cs124"
-print("Hello World")
+print("Hello World! and Stanford!")
 
